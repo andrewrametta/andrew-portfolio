@@ -1,0 +1,116 @@
+
+
+
+
+header {
+  margin: 0px;
+  padding-top: 30px;
+  background: rgb(38, 44, 92);
+}
+
+/* h1 header Andrew Rametta*/
+h1{
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-size: 45px;
+  margin-left: 30px;
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 24px;
+  margin-left: 30px;
+  padding-bottom: 20px;
+  color: rgb(180, 180, 180);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+  background: rgb(201, 204, 236)
+}
+
+.profile {
+  padding-top: 20px;
+}
+/*round/oval profile image and center*/
+.profile-image {
+  display: block;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 50px;
+}
+
+/* Thanks for stopping by*/
+.image-text {
+  font-size: 32px;
+  color: white;
+  text-align: center; 
+  font-family: Arial, Helvetica, sans-serif;
+  height: 50px;
+  margin-top: 20px
+}
+
+h2 {
+  color: rgb(112, 101, 35);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  margin-left: 175px;
+  height: 50px;
+  padding-top: 20px;
+}
+
+main p {
+  color: rgb(38, 44, 92);
+  font-family: helvetica;
+  margin-left: 200px;
+  margin-right: 175px;
+  line-height: 24px;
+  padding-bottom: 10px;
+}
+/* I code because*/
+.list {
+  color: rgb(38, 44, 92);
+  margin-left: 275px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 5px;
+}
+
+
+ul {
+  color: rgb(112, 101, 35);
+  margin-left: 250px;
+  padding-bottom: 10px;
+  font-family: helvetica;
+}
+
+hr {
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+ol {
+  margin-left: 175px;
+  font-size: 18px;
+  padding-bottom: 30px;
+  color:white;
+}
+/* colors for links*/ 
+a:link {color: white; }
+a:visited {color:  rgb(38, 44, 92); }
+a:hover {color:  rgb(112, 101, 35); }
+a:active {color:  rgb(180, 180, 180); }
+
+footer {
+  background-color:  rgb(38, 44, 92);
+  height: 50px;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+
